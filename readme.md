@@ -2,17 +2,17 @@
 
 Golang bridge for Node.js, eventually allowing you to run Golang code just directly from Node!
 
-## 💀 Installation
+## Installation
 
 ```
-	npm install --save golang
+npm install --save golang
 ```
 
-## 💀 Pre-Requistes
+## Pre-Requistes
 
 You'd need a go-lang compiler, [Download it from Here](https://golang.org/dl/)
 
-## 💀 API with Examples
+## API with Examples
 
 ### Run
 
@@ -70,4 +70,4 @@ Want to Improve it? Sure, Please Submit an Issue or a Pull Request :)
 
 ## 📜 License
 
-Licensed Under MIT to [Daksh Miglani](https://dak.sh), Please Give Credit when used :)
+Licensed Under MIT 2017 © to [Daksh Miglani](https://dak.sh), Please Give Credit when used :)
