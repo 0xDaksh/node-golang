@@ -3,6 +3,9 @@ const index = require('../index'),
 
 describe('Golang Module', () => {
 	it('should export a function', () => {
-		expect(index()).to.be.a('function')
+		expect(index).to.be.a('function')
 	})
-})
+	it('should return a promise', () => {
+		expect(index()).to.be.a('promise')
+	})
+}) 
