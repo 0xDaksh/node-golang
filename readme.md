@@ -1,5 +1,6 @@
 # 💀 Golang for Node.
 [![Build Status](https://travis-ci.org/DakshMiglani/node-golang.svg?branch=master)](https://travis-ci.org/DakshMiglani/node-golang)
+
 Golang bridge for Node.js, eventually allowing you to run Golang code just directly from Node!
 
 ## Installation

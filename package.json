@@ -1,6 +1,6 @@
 {
   "name": "golang",
-  "version": "0.1.4-stable",
+  "version": "0.1.5-stable",
   "description": "GoLang Bridge for Node.js",
   "main": "index.js",
   "scripts": {
