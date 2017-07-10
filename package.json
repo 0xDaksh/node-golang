@@ -1,0 +1,33 @@
+{
+  "name": "golang",
+  "version": "0.0.1-placeholder",
+  "description": "GoLang Bridge for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DakshMiglani/node-golang.git"
+  },
+  "keywords": [
+    "Golang",
+    "GoLang",
+    "golang",
+    "go",
+    "bridge",
+    "golang",
+    "bride",
+    "golang",
+    "node.js"
+  ],
+  "author": "Daksh Miglani <hello@dak.sh> (https://dak.sh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DakshMiglani/node-golang/issues"
+  },
+  "homepage": "https://github.com/DakshMiglani/node-golang#readme",
+  "dependencies": {
+    "prgm-installed": "^1.0.7"
+  }
+}
