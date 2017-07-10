@@ -15,6 +15,15 @@ You'd need a go-lang compiler, [Download it from Here](https://golang.org/dl/)
 ## 💀 API with Examples
 
 ### Run
+
+Params:
+- Input
+
+Does:
+- Creates a File
+- Runs it
+- Output is logged out.
+
 ```javascript
 	var golang = require('golang')
 	golang.run(`
@@ -31,6 +40,15 @@ You'd need a go-lang compiler, [Download it from Here](https://golang.org/dl/)
 ```
 
 ### Build
+
+Params:
+- Input
+
+Does:
+- Creates a File.
+- Builds it from the File.
+- Loggs the url of the Build File.
+
 ```javascript
 	var golang = require('golang')
 	golang.build(`
@@ -44,3 +62,12 @@ You'd need a go-lang compiler, [Download it from Here](https://golang.org/dl/)
 	}).catch((e) => {
 		throw e // err code.
 	})
+```
+
+## 💀 Contributions
+Want to Improve it? Sure, Please Submit an Issue or a Pull Request :)
+
+
+## 📜 License
+
+Licensed Under MIT to [Daksh Miglani](https://dak.sh), Please Give Credit when used :)
