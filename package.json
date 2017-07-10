@@ -29,6 +29,7 @@
   "homepage": "https://github.com/DakshMiglani/node-golang#readme",
   "dependencies": {
     "hasbin": "^1.2.3",
-    "shelljs": "^0.7.8"
+    "shelljs": "^0.7.8",
+    "write": "^1.0.1"
   }
 }
