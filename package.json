@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/DakshMiglani/node-golang#readme",
   "dependencies": {
-    "prgm-installed": "^1.0.7"
+    "hasbin": "^1.2.3",
+    "shelljs": "^0.7.8"
   }
 }
